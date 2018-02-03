@@ -1,3 +1,5 @@
 # Age-prediction-with-facial-recognition
 
-This project is about prediction of age using facial features. The features used in this project is wrinkles on the face. To extract the wrinkles on the face, gabor filter has been used. Wrinkles pertaining to specific orientations have been extracted and then used as features to train the model.
+This project is about prediction of age using facial features. The features used in this project is wrinkles on the face. To extract the wrinkles on the face, gabor filter has been used. Wrinkles pertaining to specific orientations have been extracted and then used as features to train the model using SVM.
+
+The code is written in matlab and the image data base used is FGNet
